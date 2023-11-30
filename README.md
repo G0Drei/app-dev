@@ -1,6 +1,5 @@
 # app-dev
-My first repository
-1. Up
+Up
 
 - Originally titled Heliums, Docter conceived the outline for Up in 2004 based on fantasies of escaping from life when it became too irritating.
 - The inspiration for Carl's house in Pixar's Up is a real-life person named Edith Macefield, who also refused to sell her lifelong home to construction workers. Edith Macefield's house, known as Whitewood Cottage, is still standing today.
